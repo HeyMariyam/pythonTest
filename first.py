@@ -4,3 +4,5 @@ else:
     print('bye')
 
 print('hello world')
+
+print('bye')
